@@ -1,7 +1,7 @@
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive, Telegram or to any rclone supported cloud. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 # Features
-
+<div align="center"><a href="https://colab.research.google.com/github/sisakoy/jmdeguzman/blob/master/JMDKH.ipynb" target="_parent"><img src="https://cdn.wapka.io/009gsa/12f8440c08aee5384aad6e8050e05425/colab_deploy.png" alt="Deploy On Google Colab"/></a></div>
 ## By [anasty17](https://github.com/anasty17)
 
 In each single file there is a major change from base code, it's almost totaly different. Here some of features and fixes that I remember.
